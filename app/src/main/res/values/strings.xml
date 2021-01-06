@@ -2,5 +2,6 @@
     <string name="app_name">Testing Skills</string>
     <string name="button_name">Передать данные</string>
     <string name="text_value">Ввести данные</string>
+    <string name="text_message">Пустое место</string>
 
 </resources>
